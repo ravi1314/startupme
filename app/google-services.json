@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820111474018",
+    "project_id": "startupu-20721",
+    "storage_bucket": "startupu-20721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820111474018:android:985a90902de359fe62003b",
+        "android_client_info": {
+          "package_name": "com.example.startupu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABf4tT_WjDBBJtsd1JVseFUogr1tj0D9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
